@@ -9,7 +9,7 @@
             </button>
 
         
-            <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="d-none d-lg-flex" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
                         <a href="#" class="nav-link btn btn-color-theme pl-3 pr-3">Pesan</a>
