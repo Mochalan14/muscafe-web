@@ -1,15 +1,17 @@
-import Vue from 'vue'
-import App from './App.vue'
-import AOS from 'aos'
-import 'aos/dist/aos.css'
-import * as TastyBurgerButton from 'vue-tasty-burgers';
+import Vue from "vue";
+import App from "./App.vue";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.bundle";
+import * as TastyBurgerButton from "vue-tasty-burgers";
 
 Vue.use(TastyBurgerButton);
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
 new Vue({
-  render: h => h(App),
+  render: (h) => h(App),
   mounted() {
-    AOS.init()
+    AOS.init();
   },
-}).$mount('#app')
+}).$mount("#app");
