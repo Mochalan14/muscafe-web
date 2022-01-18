@@ -51,7 +51,7 @@
             kemampuan dalam bermain catur. terdapat ribuan pertandingan setiap
             harinya dan rasakan sensasi kompetisi
           </p>
-          <a href="#" class="btn btn-color-theme pr-4 pl-4 pt-2 pb-2 t-3">
+          <a href="https://goo.gl/maps/oj8QVrgsmgvWoFkw7" target="_blank" class="btn btn-color-theme pr-4 pl-4 pt-2 pb-2 t-3">
             Kunjungi Sekarang
           </a>
         </div>

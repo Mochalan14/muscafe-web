@@ -22,7 +22,7 @@
             <a href="#" class="nav-link btn btn-color-theme pl-3 pr-3">Pesan</a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link btn btn-outline-theme pl-3 pr-3"
+            <a href="https://goo.gl/maps/oj8QVrgsmgvWoFkw7" target="_blank" class="nav-link btn btn-outline-theme pl-3 pr-3"
               >Kunjungi</a
             >
           </li>
